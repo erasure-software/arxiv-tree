@@ -1,0 +1,6 @@
+**/__pycache__
+**/arxiv-download-folder/**
+**/*.bak
+**/trees
+**/result*
+README.md.pdf
